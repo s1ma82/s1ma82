@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-    ![Header](https://github.com/s1ma82/s1ma82/blob/main/src/developer-recruiters.gif)
+    <img src='https://github.com/s1ma82/s1ma82/blob/main/src/developer-recruiters.gif'/>
 </p>
 
 But it certainly wasn't me.
