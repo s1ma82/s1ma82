@@ -3,7 +3,7 @@
     <img src='https://github.com/s1ma82/s1ma82/blob/main/src/developer-recruiters.gif'/>
 </p>
 
-But it certainly wasn't me
+# <p align='center'>**<span style='color: #9966CC'>But it certainly wasn't me</span>**</p>
 <!-- About me -->
 
 <!-- Еechnologies -->
