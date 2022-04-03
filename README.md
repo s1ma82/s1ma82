@@ -4,7 +4,7 @@
 </p>
 
 # <p align='center'>**But it certainly wasn't me**</p>
-изменение
+
 <!-- About me -->
 
 <!-- Еechnologies -->
