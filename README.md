@@ -7,6 +7,8 @@
 Aboba
 <!-- About me -->
 
+<!-- About me -->
+start.
 <!-- Еechnologies -->
 
 <!-- Projects -->
