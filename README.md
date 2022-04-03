@@ -6,7 +6,7 @@
 # <p align='center'>**But it certainly wasn't me**</p>
 
 <!-- About me -->
-start
+start.
 <!-- Еechnologies -->
 
 <!-- Projects -->
