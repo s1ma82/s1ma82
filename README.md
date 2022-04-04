@@ -7,8 +7,6 @@
 
 <!-- About me -->
 
-<!-- About me -->
-
 
 <!-- Еechnologies -->
 
