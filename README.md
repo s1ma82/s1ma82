@@ -4,9 +4,8 @@
 </p>
 
 <!-- About me -->
-## **<span style="color: lightblue">About me:</span>**
-|   |   |
-|---|---|
+| About  | Me   |
+|   ---   |   ---    |
 |Name:|<span style="color: lightgreen">Daniil</span>|
 |Surname:|Simanovich|
 |Age:|16|
