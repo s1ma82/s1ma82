@@ -3,12 +3,17 @@
     <img src='https://github.com/s1ma82/s1ma82/blob/main/src/developer-recruiters.gif'/>
 </p>
 
-# <p align='center'>**But it certainly wasn't me**</p>
-
 <!-- About me -->
+## **<span style="color: lightblue">About me:</span>**
+|   |   |
+|---|---|
+|Name:|<span style="color: lightgreen">Daniil</span>|
+|Surname:|Simanovich|
+|Age:|16|
+|Speciality:|Front-end|
+|||
 
-
-<!-- Еechnologies -->
+<!-- Technologies -->
 
 <!-- Projects -->
 
