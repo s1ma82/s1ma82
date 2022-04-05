@@ -28,8 +28,12 @@ Since I live in the far south of the country, I have to look for a remote job, b
 1. ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=Git) 
 ![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=GitHub)
 
+---
 
+## Socials: 
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/si_zxc_ma)
+[![Discord](https://img.shields.io/badge/Discord-000?style=flat-square&logo=Discord)](https://discordapp.com/users/_$今_#5575/)
+[![Telegram](https://img.shields.io/badge/VK-000?style=flat-square&logo=VK&logoColor=blue)](https://vk.com/musorero)
 
-
-<!-- Projects -->
+<!-- Projects --> 
 
