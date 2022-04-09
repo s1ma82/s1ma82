@@ -1,8 +1,4 @@
 <!-- Header -->
-
-<!-- About me -->
-# **<p align="center"> About me</p>**
-
 ###### En
 I'm a beginner **Front-end** developer from Russia.
 Since I live in the far south of the country, I have to look for a remote job, but I think that in a few years I can move and get a job locally.
