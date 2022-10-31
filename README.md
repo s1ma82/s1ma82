@@ -11,14 +11,14 @@ Since I live in the far south of the country, I have to look for a remote job, b
 
 <!-- Technologies -->
 # **Technologies**
-1. ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-2. ![Css](https://img.shields.io/badge/Css-000?style=for-the-badge&logo=css3&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![Css](https://img.shields.io/badge/Css-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=Sass&logoColor=cf649a)
-1. ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=Redux&color=7045b1)
 ![Webpack](https://img.shields.io/badge/webpack-101619?style=for-the-badge&logo=Webpack&)
-1. ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=Git) 
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=Git) 
 ![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=GitHub)
 
 ---
