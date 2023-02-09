@@ -27,6 +27,8 @@ Since I live in the far south of the country, I have to look for a remote job, b
 <br/> 
 
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=social&logo=Telegram&logoColor=fff)](https://t.me/s1ma_tg)
+
+[Portfolio]('https://s1ma82.vercel.app/')
 <p align="center">
     <img src='https://github.com/s1ma82/s1ma82/blob/master/src/developer-recruiters.gif'/>
 </p>
